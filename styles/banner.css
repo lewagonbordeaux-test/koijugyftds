@@ -1,0 +1,13 @@
+.banner {
+  background-image: linear-gradient(120deg, rgba(132, 250, 176, 0.5) 0%, rgba(143, 211, 244, 0.5) 100%), url(https://www.mondou.com/media/36033bb6-1957-4a96-a5d7-1211fb939c05/wPwt8Q/Chiens/Categorie-Chien-Tapis-Entrainement.jpg);
+  text-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 300px 0;
+  text-align: center;
+  color: white;
+}
+
+.banner h1 {
+}

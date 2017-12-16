@@ -1,0 +1,7 @@
+@import "styles/banner.css";
+@import "styles/avatar.css";
+@import "styles/button.css";
+
+.benefits img {
+  width: 100%;
+}

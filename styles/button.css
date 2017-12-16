@@ -1,0 +1,29 @@
+.button {
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  transition: all 300ms ease;
+}
+.button:hover {
+  color: white;
+  text-decoration: none;
+  background: #5588db;
+}
+
+.button-danger {
+  background: red;
+}
+.button-danger:hover {
+  background: #db5555;
+}
+
+.button-xl {
+  font-size: 40px;
+  padding: 15px 30px;
+}
+
+.button-block {
+  display: block;
+  text-align: center;
+}
